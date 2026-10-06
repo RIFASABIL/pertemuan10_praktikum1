@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KurirDirectoryApp</string>
+    <string name="title_directory">Direktori Kurir &amp; Pengguna</string>
+    <string name="subtitle_api">Data diambil langsung via RESTful GET API publik</string>
+    <string name="hint_search">🔍 Ketik nama kurir yang dicari...</string>
+    <string name="empty_state">Tidak ada kurir yang cocok dengan pencarian Anda</string>
+    <string name="default_name">Nama Kurir / Pengguna</string>
+    <string name="default_company">Perusahaan: -</string>
+    <string name="default_email">Email: -</string>
+    <string name="default_phone">Telepon: -</string>
+</resources>
